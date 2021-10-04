@@ -53,7 +53,7 @@ dystans w barwach linii lotniczej PLL Lot wynosi niecałe 500km na przelot.
 Powyższa tabela przedstawia najpopularniejsze miejsca docelowe wszystkich występujących w zestawieniu modeli samolotów, przy czym należy zauważyć, że jeżeli dwa kierunki przy 
 danym typie samolotu były równie popularne, to każdy z nich jest wyszczególniony w tabeli. W badanym okresie czasowym Boeing 737 MAX najczęściej (po 2 razy) wykonywał loty 
 do Madrytu i Barcelony. Boeing 737-800 aż 4-krotnie leciał do Lwowa, Dreamliner i 787-8 pokonywały trasy międzykontynentalne, natomiast de Havilland dash 8 latał z Warszawy 
-do Gdańska. Warunkiem występowania samolotu w tej tabeli było rozpoczęcie danego lotu w Warszawie, ponieważ to lotnisku Chopina jest głównym portem dla lini lotniczej PLL LOT.
+do Gdańska. Warunkiem występowania samolotu w tej tabeli było rozpoczęcie danego lotu w Warszawie, ponieważ to lotnisko Chopina jest głównym portem dla lini lotniczej PLL LOT.
 
 ## Technologia
 
